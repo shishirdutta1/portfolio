@@ -1,0 +1,113 @@
+{
+  "name": "Shishir Dutta",
+  "roles": [
+    "MSc in Soil Science",
+    "Graphic Designer",
+    "Writer"
+  ],
+  "sections": [
+    {
+      "id": "about",
+      "title": "About",
+      "kicker": "Soil Science Graduate / Graphic Designer / Writer"
+    },
+    {
+      "id": "graphics",
+      "title": "Graphical Works",
+      "kicker": "Curated Canva and Illustrator visual communication work"
+    },
+    {
+      "id": "academic",
+      "title": "Academic Projects",
+      "kicker": "",
+      "items": [
+        {
+          "title": "Soil Profile & Horizon Study",
+          "image": "assets/academic/soil-profile.webp",
+          "description": "Field-oriented documentation of soil horizons, profile characteristics and interpretive presentation."
+        },
+        {
+          "title": "Nursery Management & Greenhouse",
+          "image": "assets/academic/nursery-greenhouse.webp",
+          "description": "Academic project work on controlled plant-production systems, propagation practice and nursery management."
+        },
+        {
+          "title": "Soil Particle analysis & TDS",
+          "image": "assets/academic/soil-particle.webp",
+          "description": "Laboratory-focused documentation of soil texture, particle interpretation and dissolved-solids measurement."
+        },
+        {
+          "title": "Wetland Management & SALT",
+          "image": "assets/academic/wetland-salt.webp",
+          "description": "Applied study board connecting wetland management concepts with soil and land-conservation practice."
+        },
+        {
+          "title": "Publication",
+          "type": "publication",
+          "paper": "Molecular Pharming: Advances, Applications, and Future Prospects in Biotechnology and Medicine",
+          "journal": "Engineering in Life Sciences",
+          "authors": "Md. Hridoy Ahmed, Md. Mustak Khan, Shishir Dutta, Md. Foyzur Rahman, Mohammad Shariful Islam, Md. Najmul Hosen, Md. Saad Hossain, Md. Aftabur Rahman, Md. Sadman Hasan Sahil, Tanjuma Tasnim Hira, Ifthesum, Ashikur Rahaman, Md. Afser Rabbi, Laila Khaleda",
+          "link": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/elsc.70075"
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Writing Projects",
+      "kicker": "Certificate, poem, story and publication-facing creative work",
+      "items": [
+        {
+          "title": "Certificate of Appreciations",
+          "image": "assets/writing/certificate-of-appreciations.png"
+        },
+        {
+          "title": "Published Poem & Story",
+          "image": "assets/writing/published-poem-story.png"
+        },
+        {
+          "title": "Published Poem & Story",
+          "type": "publication-link",
+          "link": "https://online.fliphtml5.com/kkelc/dmyz/"
+        }
+      ]
+    },
+    {
+      "id": "internships",
+      "title": "Internship",
+      "kicker": "Professional exposure through research, design, and social entrepreneurship organizations",
+      "items": [
+        {
+          "organization": "BioPC - A Bioinformatics Lab of Research & Training",
+          "role": "Bioinformatics",
+          "logo": "assets/internships/biopc-logo.png"
+        },
+        {
+          "organization": "Youth School for Social Entrepreneurs (YSSE)",
+          "role": "Graphic Design Intern · Batch 10",
+          "logo": "assets/internships/ysse-logo.png"
+        },
+        {
+          "organization": "CodeAlpha",
+          "role": "Graphic Design Intern",
+          "logo": "assets/internships/codealpha-logo.png"
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "research",
+      "title": "Other Activities",
+      "kicker": "Research activity, cocurricular activity and social activity arranged as evidence cards"
+    },
+    {
+      "id": "recognitions",
+      "title": "Recognitions",
+      "kicker": "Certification and Achievement"
+    },
+    {
+      "id": "contact",
+      "title": "Connect With Me",
+      "kicker": "Direct Facebook, LinkedIn, Behance, Upwork and WhatsApp links"
+    }
+  ]
+}

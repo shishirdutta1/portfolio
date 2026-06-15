@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Microsoft Office logo">
+  <defs>
+    <linearGradient id="officeA" x1="105" y1="420" x2="405" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f43b5f"/>
+      <stop offset="0.42" stop-color="#c81d18"/>
+      <stop offset="1" stop-color="#ffae00"/>
+    </linearGradient>
+    <linearGradient id="officeB" x1="280" y1="86" x2="420" y2="425" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffaf10"/>
+      <stop offset="0.55" stop-color="#e94900"/>
+      <stop offset="1" stop-color="#b51910"/>
+    </linearGradient>
+  </defs>
+  <path d="M202 70c32-23 78-28 117-11l90 39c33 14 54 46 54 82v198c0 33-18 63-47 79l-88 48c-42 23-93 19-131-10l-73-56c-20-15-32-39-32-64V176c0-31 15-60 41-78l69-28z" fill="url(#officeA)"/>
+  <path d="M287 82l104 45c31 13 51 43 51 77v177c0 43-48 68-83 43l-73-52V82z" fill="url(#officeB)"/>
+  <path d="M173 190c0-18 10-35 26-44l87-50v276l-89 48c-11 6-24-2-24-15V190z" fill="rgba(255,255,255,.22)"/>
+  <path d="M205 201c0-13 7-24 18-30l45-25v211l-45 24c-8 4-18-2-18-11V201z" fill="rgba(255,255,255,.85)" opacity=".92"/>
+</svg>

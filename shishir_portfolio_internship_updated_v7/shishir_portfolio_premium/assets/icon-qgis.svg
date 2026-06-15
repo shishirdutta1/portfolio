@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="QGIS logo">
+  <defs>
+    <linearGradient id="tailGreen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a7c45d"/>
+      <stop offset="0.55" stop-color="#6ba63c"/>
+      <stop offset="1" stop-color="#4c942e"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9c2d"/>
+      <stop offset="1" stop-color="#f77900"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 48c-115 0-208 93-208 208s93 208 208 208c43 0 82-13 115-35l-62-62c-16 8-34 12-53 12-68 0-123-55-123-123s55-123 123-123 123 55 123 123c0 17-3 34-10 49l64 64c20-32 31-70 31-113C464 141 371 48 256 48z" fill="#78a91e"/>
+  <polygon points="211,217 289,217 337,265 259,265" fill="url(#orange)"/>
+  <polygon points="289,217 337,265 337,343 289,295" fill="#f06f00"/>
+  <polygon points="259,265 337,265 463,391 386,391" fill="#f6f35e"/>
+  <polygon points="337,265 463,391 463,512 337,386" fill="url(#tailGreen)"/>
+  <polygon points="259,265 337,343 337,386 259,308" fill="#f5ed49"/>
+</svg>
